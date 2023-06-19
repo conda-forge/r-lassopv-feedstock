@@ -1,11 +1,11 @@
-About r-lassopv
-===============
+About r-lassopv-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-lassopv-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/lingfeiwang/lassopv
 
 Package license: GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-lassopv-feedstock/blob/main/LICENSE.txt)
 
 Summary: Estimate the p-values for predictors x against target variable y in lasso regression, using the regularization strength when each predictor enters the active set of regularization path for the first time as the statistic. This is based on the assumption that predictors (of the same variance) that (first) become active earlier tend to be more significant. Three null distributions are supported: normal and spherical, which are computed separately for each predictor and analytically under approximation, which aims at efficiency and accuracy for small p-values.
 
